@@ -1,4 +1,3 @@
-# Simple Readme File
 
 ![Health Insurance App](images/Health_Insurance_Payment_Prediction_App.png)
 
